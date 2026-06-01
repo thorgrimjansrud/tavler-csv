@@ -1,9 +1,9 @@
 ﻿Fordeling;Ferdig prosent;Type;Steg;Steg bokstav;Sum alle;Sum alle SRO;Sum alle Elkraft;Sum alle SD;Sum alle SRO-IKT;Sum alle Reservekraft;Sum alle IKT1;Sum alle IKT2;Sum 41;Sum 42;Sum 43;Sum 44;Sum 45;Sum 46;;Kategori;Antall;D1;D2;D3;D4;;
-432.431;7;Elkraft;MA - Underlag klart for Elcor / Controlpartner;A;11;9;36;22;0;25;0;0;7;7;5,6;56;36;7;;;;;;;;;
-432.451;64;Elkraft;Elcor - produserer Fordeling;I;;;;;;;;;;;;;;;;432-HOVED;8;0;1;7;0;;
+432.431;7;Elkraft;MA - Underlag klart for Elcor / Controlpartner;A;11;9;38;24;0;27;0;0;7;7;5,6;56;38;7;;;;;;;;;
+432.451;79;Elkraft;FAT;K;;;;;;;;;;;;;;;;432-HOVED;8;0;1;7;0;;
 432.452;64;Elkraft;Elcor - produserer Fordeling;I;;;;;;;;;;;;;;;;433-UNDER;6;2;0;4;0;;
 432.453;64;Elkraft;Elcor - produserer Fordeling;I;;;;;;;;;;;;;;;;434-BYGG;7;2;0;5;0;;
-432.454;64;Elkraft;Elcor - produserer Fordeling;I;;;;;;;;;;;;;;;;435-SRO;23;4;2;17;0;;
+432.454;79;Elkraft;FAT;K;;;;;;;;;;;;;;;;435-SRO;23;4;2;17;0;;
 432.455;64;Elkraft;Elcor - produserer Fordeling;I;;;;;;;;;;;;;;;;462-UPS;6;1;4;1;0;;
 432.456;7;Elkraft;MA - Underlag klart for Elcor / Controlpartner;A;;;;;;;;;;;;;;;;515-TELE;11;6;0;5;0;;
 432.462;7;Elkraft;MA - Underlag klart for Elcor / Controlpartner;A;;;;;;;;;;;;;;;;516-TELE;14;10;0;4;0;;
@@ -17,7 +17,7 @@
 434.436;7;SD;MA - Underlag klart for Elcor / Controlpartner;A;;;;;;;;;;;;;;;;;;;;;;;
 434.451;64;SD;Elcor - produserer Fordeling;I;;;;;;;;;;;;;;;;;;;;;;;
 434.452;7;SD;MA - Underlag klart for Elcor / Controlpartner;A;;;;;;;;;;;;;;;;;;;;;;;
-434.454;64;SD;Elcor - produserer Fordeling;I;;;;;;;;;;;;;;;;;;;;;;;
+434.454;79;SD;FAT;K;;;;;;;;;;;;;;;;;;;;;;;
 434.456;7;SD;MA - Underlag klart for Elcor / Controlpartner;A;;;;;;;;;;;;;;;;;;;;;;;
 434.462;7;SD;MA - Underlag klart for Elcor / Controlpartner;A;;;;;;;;;;;;;;;;;;;;;;;
 435.001;0;SRO;0;;;;;;;;;;;;;;;;;;;;;;;;
@@ -46,7 +46,7 @@
 462.433;7;Reservekraft;MA - Underlag klart for Elcor / Controlpartner;A;;;;;;;;;;;;;;;;;;;;;;;
 462.436;0;Reservekraft;0;;;;;;;;;;;;;;;;;;;;;;;;
 462.451;64;Reservekraft;Elcor - produserer Fordeling;I;;;;;;;;;;;;;;;;;;;;;;;
-462.454;64;Reservekraft;Elcor - produserer Fordeling;I;;;;;;;;;;;;;;;;;;;;;;;
+462.454;79;Reservekraft;FAT;K;;;;;;;;;;;;;;;;;;;;;;;
 462.461;7;Reservekraft;MA - Underlag klart for Elcor / Controlpartner;A;;;;;;;;;;;;;;;;;;;;;;;
 462.462;7;Reservekraft;MA - Underlag klart for Elcor / Controlpartner;A;;;;;;;;;;;;;;;;;;;;;;;
 515.4131;0;IKT1;0;;;;;;;;;;;;;;;;;;;;;;;;
