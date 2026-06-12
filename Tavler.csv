@@ -1,14 +1,14 @@
 ﻿Fordeling;Ferdig prosent;Type;Steg;Steg bokstav;Sum alle;Sum alle SRO;Sum alle Elkraft;Sum alle SD;Sum alle SRO-IKT;Sum alle Reservekraft;Sum alle IKT1;Sum alle IKT2;Sum 41;Sum 42;Sum 43;Sum 44;Sum 45;Sum 46;;Kategori;Antall;D1;D2;D3;D4;;Trend;Trend-Dato
 432.431;7;Elkraft;MA - Underlag klart for Elcor / Controlpartner;A;11;9;38;24;0;27;0;0;7;7;5,6;56;38;7;;;;;;;;;;
-432.451;79;Elkraft;FAT;K;;;;;;;;;;;;;;;;432-HOVED;8;0;1;7;0;;7;2026-06-10
-432.452;64;Elkraft;Elcor - produserer Fordeling;I;;;;;;;;;;;;;;;;433-UNDER;6;2;0;4;0;;79;2026-06-10
-432.453;64;Elkraft;Elcor - produserer Fordeling;I;;;;;;;;;;;;;;;;434-BYGG;7;2;0;5;0;;64;2026-06-10
-432.454;79;Elkraft;FAT;K;;;;;;;;;;;;;;;;435-SRO;23;4;2;17;0;;10;2026-06-11
-432.455;64;Elkraft;Elcor - produserer Fordeling;I;;;;;;;;;;;;;;;;462-UPS;6;1;4;1;0;;79;2026-06-11
-432.456;7;Elkraft;MA - Underlag klart for Elcor / Controlpartner;A;;;;;;;;;;;;;;;;515-TELE;11;6;0;5;0;;57;2026-06-11
-432.462;7;Elkraft;MA - Underlag klart for Elcor / Controlpartner;A;;;;;;;;;;;;;;;;516-TELE;14;10;0;4;0;;15;2026-06-12
-433.437;7;Elkraft;MA - Underlag klart for Elcor / Controlpartner;A;;;;;;;;;;;;;;;;517-SRO/TELE;3;0;0;3;0;;89;2026-06-12
-433.451;64;Elkraft;Elcor - produserer Fordeling;I;;;;;;;;;;;;;;;;;;;;;;;57;2026-06-12
+432.451;79;Elkraft;FAT;K;;;;;;;;;;;;;;;;432-HOVED;8;0;1;7;0;;7;2026-06-10 00:00:00.000
+432.452;64;Elkraft;Elcor - produserer Fordeling;I;;;;;;;;;;;;;;;;433-UNDER;6;2;0;4;0;;79;2026-06-10 00:00:00.000
+432.453;64;Elkraft;Elcor - produserer Fordeling;I;;;;;;;;;;;;;;;;434-BYGG;7;2;0;5;0;;64;2026-06-10 00:00:00.000
+432.454;79;Elkraft;FAT;K;;;;;;;;;;;;;;;;435-SRO;23;4;2;17;0;;;
+432.455;64;Elkraft;Elcor - produserer Fordeling;I;;;;;;;;;;;;;;;;462-UPS;6;1;4;1;0;;;
+432.456;7;Elkraft;MA - Underlag klart for Elcor / Controlpartner;A;;;;;;;;;;;;;;;;515-TELE;11;6;0;5;0;;;
+432.462;7;Elkraft;MA - Underlag klart for Elcor / Controlpartner;A;;;;;;;;;;;;;;;;516-TELE;14;10;0;4;0;;;
+433.437;7;Elkraft;MA - Underlag klart for Elcor / Controlpartner;A;;;;;;;;;;;;;;;;517-SRO/TELE;3;0;0;3;0;;;
+433.451;64;Elkraft;Elcor - produserer Fordeling;I;;;;;;;;;;;;;;;;;;;;;;;;
 433.452;7;Elkraft;MA - Underlag klart for Elcor / Controlpartner;A;;;;;;;;;;;;;;;;SUM;78;25;7;46;0;;;
 433.453;7;Elkraft;MA - Underlag klart for Elcor / Controlpartner;A;;;;;;;;;;;;;;;;;;;;;;;;
 433.457;64;Elkraft;Elcor - produserer Fordeling;I;;;;;;;;;;;;;;;;;;;;;;;;
